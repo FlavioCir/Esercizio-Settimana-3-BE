@@ -1,0 +1,4 @@
+"id","inizioprestito","prestato","restituzioneeffettiva","restituzioneprevista","utente_id"
+1,"2023-01-20","Harry Potter","2023-01-30","2023-02-19",1
+2,"2023-01-10","Spare il minore",NULL,"2023-02-09",2
+3,"2022-12-15","Pinocchio",NULL,"2023-01-14",3
